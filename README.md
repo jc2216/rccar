@@ -18,7 +18,7 @@ there are slots for bearings. all shafts are 3mm diameter
 ## Differential
 <img width="421" height="416" alt="Screenshot 2026-10-18 at 9 26 17 PM" src="https://github.com/user-attachments/assets/7d551ee1-213b-4345-9e80-5931d52b6358" />
 
-this was honestly really intimidating for me at first because i had absolutely no idea how to design a differential. however, with the help of a bunch of youtube videos, i was able to do it!!. again, the case is very ugly but whatever. overall, i think this had a 40:15 reduction. sun + planet gears had 15 teeth.
+this was honestly really intimidating for me at first because i had absolutely no idea how to design a differential. however, with the help of a bunch of youtube videos, i was able to do it!!. again, the case is very ugly (you can't see it but whatever). overall, i think this had a 40:15 reduction. sun + planet gears had 15 teeth.
 
 ## Overall Assembly
 <img width="493" height="315" alt="Screenshot 2026-10-18 at 9 25 24 PM" src="https://github.com/user-attachments/assets/b2eb36a9-535c-4f86-af29-eec5ef6bb2ff" />
