@@ -24,6 +24,7 @@ this was honestly really intimidating for me at first because i had absolutely n
 <img width="493" height="315" alt="Screenshot 2026-10-18 at 9 25 24 PM" src="https://github.com/user-attachments/assets/b2eb36a9-535c-4f86-af29-eec5ef6bb2ff" />
 
 this car was an absolute nightmare to assemble + mate (again because i had no master sketch). i did a lot of weird in context edits which is probably incredibly not parametric but whatever. i'm restarting this anyway. 
+
 <img width="686" height="267" alt="Screenshot 2026-10-18 at 9 25 19 PM" src="https://github.com/user-attachments/assets/72a9da27-48f1-4a15-9fae-8c8faea900f5" />
 
 a picture of side view. yeah it does not look good. 
